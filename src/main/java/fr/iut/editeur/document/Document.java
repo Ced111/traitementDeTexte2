@@ -8,7 +8,7 @@ public class Document {
      * Crée un nouveau document avec un texte vide.
      */
     public Document() {
-        this.texte = "z";
+        this.texte = "";
     }
 
     /**
